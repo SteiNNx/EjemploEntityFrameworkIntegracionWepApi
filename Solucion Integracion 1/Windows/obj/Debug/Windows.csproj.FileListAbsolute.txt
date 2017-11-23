@@ -1,0 +1,35 @@
+c:\users\lc1300xxxx\documents\visual studio 2015\Projects\Solucion Integracion 1\Windows\bin\Debug\Windows.exe.config
+c:\users\lc1300xxxx\documents\visual studio 2015\Projects\Solucion Integracion 1\Windows\bin\Debug\Windows.exe
+c:\users\lc1300xxxx\documents\visual studio 2015\Projects\Solucion Integracion 1\Windows\bin\Debug\Windows.pdb
+c:\users\lc1300xxxx\documents\visual studio 2015\Projects\Solucion Integracion 1\Windows\obj\Debug\Windows.csprojResolveAssemblyReference.cache
+c:\users\lc1300xxxx\documents\visual studio 2015\Projects\Solucion Integracion 1\Windows\obj\Debug\Windows.Form1.resources
+c:\users\lc1300xxxx\documents\visual studio 2015\Projects\Solucion Integracion 1\Windows\obj\Debug\Windows.Properties.Resources.resources
+c:\users\lc1300xxxx\documents\visual studio 2015\Projects\Solucion Integracion 1\Windows\obj\Debug\Windows.csproj.GenerateResource.Cache
+c:\users\lc1300xxxx\documents\visual studio 2015\Projects\Solucion Integracion 1\Windows\obj\Debug\Windows.exe
+c:\users\lc1300xxxx\documents\visual studio 2015\Projects\Solucion Integracion 1\Windows\obj\Debug\Windows.pdb
+c:\users\lc1300xxxx\documents\visual studio 2015\Projects\Solucion Integracion 1\Windows\obj\Debug\Windows.frmMenu.resources
+c:\users\lc1300xxxx\documents\visual studio 2015\Projects\Solucion Integracion 1\Windows\obj\Debug\Windows.frmAgregarCategoria.resources
+C:\Users\LC1300XXXX\Desktop\PCI\Solucion Integracion 1\Windows\bin\Debug\Windows.exe.config
+C:\Users\LC1300XXXX\Desktop\PCI\Solucion Integracion 1\Windows\obj\Debug\Windows.exe
+C:\Users\LC1300XXXX\Desktop\PCI\Solucion Integracion 1\Windows\obj\Debug\Windows.pdb
+C:\Users\LC1300XXXX\Desktop\PCI\Solucion Integracion 1\Windows\bin\Debug\Windows.exe
+C:\Users\LC1300XXXX\Desktop\PCI\Solucion Integracion 1\Windows\bin\Debug\Windows.pdb
+C:\Users\LC1300XXXX\Desktop\PCI\Solucion Integracion 1\Windows\bin\Debug\EntityFramework.dll
+C:\Users\LC1300XXXX\Desktop\PCI\Solucion Integracion 1\Windows\bin\Debug\Newtonsoft.Json.dll
+C:\Users\LC1300XXXX\Desktop\PCI\Solucion Integracion 1\Windows\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\LC1300XXXX\Desktop\PCI\Solucion Integracion 1\Windows\bin\Debug\System.Web.Cors.dll
+C:\Users\LC1300XXXX\Desktop\PCI\Solucion Integracion 1\Windows\bin\Debug\System.Web.Http.Cors.dll
+C:\Users\LC1300XXXX\Desktop\PCI\Solucion Integracion 1\Windows\bin\Debug\System.Web.Http.dll
+C:\Users\LC1300XXXX\Desktop\PCI\Solucion Integracion 1\Windows\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\LC1300XXXX\Desktop\PCI\Solucion Integracion 1\Windows\bin\Debug\EntityFramework.xml
+C:\Users\LC1300XXXX\Desktop\PCI\Solucion Integracion 1\Windows\bin\Debug\Newtonsoft.Json.xml
+C:\Users\LC1300XXXX\Desktop\PCI\Solucion Integracion 1\Windows\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\LC1300XXXX\Desktop\PCI\Solucion Integracion 1\Windows\bin\Debug\System.Web.Http.xml
+C:\Users\LC1300XXXX\Desktop\PCI\Solucion Integracion 1\Windows\bin\Debug\System.Web.Http.Cors.xml
+C:\Users\LC1300XXXX\Desktop\PCI\Solucion Integracion 1\Windows\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\LC1300XXXX\Desktop\PCI\Solucion Integracion 1\Windows\obj\Debug\Windows.Form1.resources
+C:\Users\LC1300XXXX\Desktop\PCI\Solucion Integracion 1\Windows\obj\Debug\Windows.frmAgregarCategoria.resources
+C:\Users\LC1300XXXX\Desktop\PCI\Solucion Integracion 1\Windows\obj\Debug\Windows.frmMenu.resources
+C:\Users\LC1300XXXX\Desktop\PCI\Solucion Integracion 1\Windows\obj\Debug\Windows.Properties.Resources.resources
+C:\Users\LC1300XXXX\Desktop\PCI\Solucion Integracion 1\Windows\obj\Debug\Windows.csproj.GenerateResource.Cache
+C:\Users\LC1300XXXX\Desktop\PCI\Solucion Integracion 1\Windows\obj\Debug\Windows.frmPrendas.resources
